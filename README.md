@@ -2,7 +2,7 @@
 Este é um projeto simples de jogo da memória feito com personagens de Pokémon.
 
 ## Como Jogar
-Abra o arquivo index.html no seu navegado.
+Abra o arquivo index.html no seu navegador.
 Você verá uma grade de cartas viradas para baixo.
 Clique em uma carta para revelar o personagem.
 Clique em outra carta para encontrar o par correspondente.
